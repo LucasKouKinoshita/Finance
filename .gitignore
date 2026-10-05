@@ -1,0 +1,7 @@
+# Dados financeiros locais (nunca versionar)
+assets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
