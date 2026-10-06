@@ -257,7 +257,7 @@ def table(headers, body, aligns):
 
 
 def ok(msg):
-    print(green("✔ ") + msg)
+    print(green(msg))
 
 
 def print_summary(s, acc):
